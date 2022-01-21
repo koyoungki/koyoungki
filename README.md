@@ -1,4 +1,4 @@
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=koyoungki)](https://solved.ac/woaldudrl)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=woaldudrl)](https://solved.ac/woaldudrl)
 
 <!--
 **koyoungki/koyoungki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
